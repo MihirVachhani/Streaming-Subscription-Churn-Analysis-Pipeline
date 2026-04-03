@@ -92,8 +92,8 @@ Analyze customer subscription behavior to identify churn patterns, retention tre
 
 ```id="k1z8pm"
 data/
- ├── raw/ subscription_data.csv
- ├── processed/ cleaned_subscription_data.csv
+ ├── raw/ 
+ ├── processed/ 
  └── data_dictionary.csv
 
 pipeline/

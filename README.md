@@ -60,7 +60,7 @@ Analyze customer subscription behavior to identify churn patterns, retention tre
 
 ### 📌 Dashboard Overview
 
-![Dashboard]([outputs/dashboard_overview.png](Outputs/Cohort Retention Grid — % Customers Retained by Month.png)
+![Dashboard]([outputs/dashboard_overview.png])
 
 ---
 

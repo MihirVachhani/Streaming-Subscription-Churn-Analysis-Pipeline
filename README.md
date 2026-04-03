@@ -60,14 +60,13 @@ Analyze customer subscription behavior to identify churn patterns, retention tre
 
 ### 📌 Dashboard Overview
 
-![Dashboard](outputs/dashboard_overview.png)
+![Dashboard](Outputs/dashboard_overview.png)
 
 ---
 
 ### 📌 Cohort Retention Analysis
 
-![Cohort Retention]([outputs/cohort_retention.png](https://github.com/MihirVachhani/Streaming-Subscription-Churn-Analysis-Pipeline/blob/main/Outputs/Cohort%20Retention%20Grid%20%E2%80%94%20%25%20Customers%20Retained%20by%20Month.png
-))
+![Cohort Retention]([outputs/cohort_retention.png])
 
 ---
 

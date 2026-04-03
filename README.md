@@ -60,7 +60,7 @@ Analyze customer subscription behavior to identify churn patterns, retention tre
 
 ### 📌 Dashboard Overview
 
-![Dashboard](Outputs/dashboard_overview.png)
+![Dashboard](Outputs/Dashboard Overview.png)
 
 ---
 
